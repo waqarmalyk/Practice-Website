@@ -1,0 +1,42 @@
+.hero {
+  text-align: center;
+  margin-top: -2em;
+}
+.left-col .sub-head {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: gray;
+  letter-spacing: 0.3em;
+}
+.left-col h1 {
+  font-size: 2.5em;
+  line-height: 1.3em;
+  margin-top: 0.2em;
+}
+.left-col .primary-cta {
+  background: var(--primary-color);
+  color: white;
+  text-decoration: none;
+  padding: 0.6em 1.3em;
+  font-size: 1.4em;
+  border-radius: 5em;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 1em;
+}
+.left-col .video-cta {
+  display: block;
+}
+.left-col .video-cta img {
+  margin-right: 1em;
+}
+.left-col .watch-cta {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hero-image {
+  width: 80%;
+  margin-top: 2em;
+  margin-bottom: -3em;
+}
